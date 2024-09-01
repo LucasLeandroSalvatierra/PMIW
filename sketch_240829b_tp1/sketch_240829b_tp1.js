@@ -1,3 +1,7 @@
+//lucas salvatierra
+//47114689
+//https://youtu.be/T1k0L4wIdfU
+
 //variables
 let cantx=7;
 let canty=7;
